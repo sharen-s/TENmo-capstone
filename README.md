@@ -6,6 +6,7 @@ You will need to add controllers, models, DAOs, and database tables to implement
 
 ## Use cases
 
+
 ### Required use cases
 
 You should attempt to complete all of the following required use cases.
