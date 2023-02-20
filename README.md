@@ -16,3 +16,4 @@ View pending transfer requests.
 Approve or reject a pending transfer request. If approved, the requester's balance increases and the requestee's decreases by the transfer amount. If rejected, no account balance changes occur.
 
 The Tenmo program was built as a capstone project with Austin Smith during a 14 week coding bootcamp at Tech Elevator.
+ 
